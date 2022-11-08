@@ -1,4 +1,5 @@
-# Student List- This project basically maintains the records of its graduating students. We can add details of a new students, update them, see the list of students and also delete the entry of a particular student
+# Student List- 
+This project basically maintains the records of its graduating students. We can add details of a new students, update them, see the list of students and also delete the entry of a particular student
 
 # Getting Started with Create React App
 
