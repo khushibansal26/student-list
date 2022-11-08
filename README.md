@@ -1,6 +1,13 @@
 # Student List- 
 This project basically maintains the records of its graduating students. We can add details of a new students, update them, see the list of students and also delete the entry of a particular student
 
+![Screenshot (262)](https://user-images.githubusercontent.com/84730669/200538362-e95e92ed-462b-4daa-b8d6-98ab65e6bb82.png)
+
+![Screenshot (263)](https://user-images.githubusercontent.com/84730669/200538263-789307a2-3bfd-4bed-905a-2299f93424b3.png)
+
+![Screenshot (265)](https://user-images.githubusercontent.com/84730669/200538182-3d858edc-6a71-45fb-a25a-f7fad46544bd.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
