@@ -29,7 +29,7 @@ function StudentList() {
 
   return (
     <div>
-      <h1 className="text-3xl text-center m-4 bg-lime-300">StudentsList</h1>
+      <h1 className="text-3xl text-center m-4 bg-lime-500">StudentsList</h1>
 
       <div className="flex">
         <table>
